@@ -1,6 +1,6 @@
 # Credit Score Classification - Machine Learning Pipeline
 
-This project implements a machine learning pipeline to classify individuals as having **good** or **bad** credit scores using 19 hidden features. The work is based on **Assignment 4 (COMP 3501 - Fall 2024)** and includes both experimentation and reporting.
+This project implements a machine learning pipeline to classify individuals as having **good** or **bad** credit scores using 19 hidden features. 
 
 ---
 
